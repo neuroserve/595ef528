@@ -1,5 +1,11 @@
 /public
 resources/
+themes/
 node_modules/
-#package-lock.json
 .hugo_build.lock
+
+# editor
+*.swp
+
+# linter
+test/
