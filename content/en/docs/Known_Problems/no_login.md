@@ -10,7 +10,7 @@ You have received your initial credentials via e-mail and want to login into Hor
 
 The e-mail includes a link to our password exchange, which lets us safely transfer your initial password to you. You might have seen a similar form:
 
-screenshot of example password exchange
+![screenshot of example password exchange](pwx.png)
 
 If you transferred your new password by clicking on the marked button on that page, and pasted it into the login screen of Horizon, it might have happened, that whitespace was appended to your password.
 
